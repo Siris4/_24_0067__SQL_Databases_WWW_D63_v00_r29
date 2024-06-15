@@ -79,9 +79,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 Siris - siris1Dev@gmail.com
 
-Project Link: https://github.com/siris4/https://github.com/Siris4/_24_0067__SQL_Databases_WWW_D63_v00_r28
-
-csharp
-Copy code
-
-This README file includes all essential sections and provides clear instructions on setting up and using your Flask application. Adjust the placeholders such as `yourusername` and `your.email@example.com` with your actual GitHub username and contact email.
+Project Link: https://github.com/siris4/https://github.com/Siris4/_24_0067__SQL_Databases_WWW_D63_v00_r29
