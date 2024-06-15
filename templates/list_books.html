@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Book List</title>
+</head>
+<body>
+    <h1>Book List</h1>
+    <ul>
+        {% for book in books %}
+        <li>{{ book.title }} by {{ book.author }} (Rating: {{ book.rating }})</li>
+        {% endfor %}
+    </ul>
+    <p><a href="/add_form">Add a new book</a></p>
+</body>
+</html>
