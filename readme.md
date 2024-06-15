@@ -79,4 +79,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 Siris - siris1Dev@gmail.com
 
-Project Link: https://github.com/siris4/https://github.com/Siris4/_24_0067__SQL_Databases_WWW_D63_v00_r29
+Project Link: https://github.com/Siris4/_24_0067__SQL_Databases_WWW_D63_v00_r29
